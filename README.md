@@ -8,7 +8,7 @@ I am currently a student at 42Heilbronn, where I am honing my skills in software
 
 ## Skills & Technologies
 
-c,cpp,py,sklearn,git,docker
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,sklearn,git,docker&perline=8)](https://skillicons.dev)
 
 ## Recent Activity
 
