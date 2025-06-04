@@ -1,23 +1,43 @@
-## Hi there! 👋
+## 👋 Hi there!
 
-I'm **Timur Schmidt**, a passionate programmer currently studying at **42Heilbronn**. I'm excited about coding, problem-solving, and bringing ideas to life through technology!
+I'm **Timur Schmidt**, a curious and motivated programmer currently studying at [42Heilbronn](https://42heilbronn.de/). I enjoy exploring everything from low-level systems programming to machine learning workflows and a bit of cybersecurity along the way.
 
-## About Me
+---
 
-I am currently a student at 42Heilbronn, where I am honing my skills in software development. My journey in programming has been driven by my love for technology and my desire to create impactful applications. I enjoy collaborating on projects and continuously learning about new technologies.
+## 🧭 About Me
 
-## Skills & Technologies
+At 42, I've had the chance to build everything from C-based command-line tools to automated ML pipelines. I’m especially interested in how things work under the hood — whether that’s in memory management, data workflows, or infrastructure.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,sklearn,git,docker&perline=8)](https://skillicons.dev)
+- 📚 Still learning — and always trying to understand the "why" behind the tools  
+- 🛠️ Enjoy practical projects that bring theory to life  
+- 🔐 Took part in *Cybersecurity Day Heilbronn* and our team secured first place 🥇
 
-## Recent Activity
+---
 
-- Pushed to [**ML-OPS-Automated-Pipeline-with-Dagster**](https://github.com/rilikt/ML-OPS-Automated-Pipeline-with-Dagster) - improved overall structure, added mlflow as a resource. (May 23, 2025)
-- Pushed to [**ML-OPS-Automated-Pipeline-with-Dagster**](https://github.com/rilikt/ML-OPS-Automated-Pipeline-with-Dagster) - added xgboost, and test logging. (May 21, 2025)
-- Started working on actual assets in [**ML-OPS-Automated-Pipeline-with-Dagster**](https://github.com/rilikt/ML-OPS-Automated-Pipeline-with-Dagster). (May 20, 2025)
-- Created the repository [**Machine-Learning-part-2**](https://github.com/rilikt/Machine-Learning-part-2). (May 15, 2025)
-- Updated exploration and training in [**Ai-OPS-part-1**](https://github.com/rilikt/Ai-OPS-part-1). (May 16, 2025)
+## 🛠️ Skills & Tools
 
-## Connect with Me
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,docker,linux,sklearn,fastapi,streamlit&perline=8)](https://skillicons.dev)
 
-[Mail](timur.schmidt.ts@gmail.com)
+> 🔧 Recently used: `Dagster`, `LakeFS`, `MLflow`, `scikit-learn`, `FastAPI`, `Streamlit`
+
+---
+
+## 🧪 Recent Projects
+
+- 🌀 **[ML-OPS-Automated-Pipeline-with-Dagster](https://github.com/rilikt/ML-OPS-Automated-Pipeline-with-Dagster)**  
+  Experimented with automating an ML pipeline using Dagster and LakeFS. Added MLflow for model tracking.
+
+- 🎧 **[Machine-Learning-part-2](https://github.com/rilikt/Machine-Learning-part-2)**  
+  Classification project using Spotify data. Includes a small FastAPI backend and Streamlit UI for predictions.
+
+- 🚲 **[Ai-OPS-part-1](https://github.com/rilikt/Ai-OPS-part-1)**  
+  Regression model to predict bike rentals, with MLflow-based experiment tracking.
+
+---
+
+## 📫 Contact
+
+📧 [timur.schmidt.ts@gmail.com](mailto:timur.schmidt.ts@gmail.com)
+
+---
+
