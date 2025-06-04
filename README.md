@@ -17,7 +17,6 @@ At 42, I've had the chance to build everything from C-based command-line tools t
 ## 🛠️ Skills & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,docker,linux,sklearn,fastapi,streamlit&perline=8)](https://skillicons.dev)
-
 > 🔧 Recently used: `Dagster`, `LakeFS`, `MLflow`, `scikit-learn`, `FastAPI`, `Streamlit`
 
 ---
