@@ -21,6 +21,22 @@ At 42, I've had the chance to build everything from C-based command-line tools t
 
 ---
 
+## ⭐ Favorite Projects
+
+- 🎨 **[fract-ol](https://github.com/rilikt/fract-ol)**  
+  Real-time fractal renderer built with MiniLibX. Mouse zooming, Julia/Mandelbrot sets, and color animation — a fun way to learn graphics and complex numbers in C.
+
+- 🐚 **[minishell](https://github.com/rilikt/minishell)**  
+  Our first big group project! A miniature shell written in C. Built-in commands, pipes, redirections, environment handling — this taught me a lot about teamwork, parsing and process control.
+
+- 🕹️ **[cub3d](https://github.com/rilikt/cub3d)**  
+  3D raycasting engine inspired by DOOM, rendered with MiniLibX. Math-heavy and visually rewarding —  another group project and one I’m proud of.
+
+- 🧠 **[CPP_09](https://github.com/rilikt/CPP_09)**  
+  The final and toughest C++ module. Built efficient algorithms using STL containers like `deque` and `vector` and practiced advanced sorting logic.
+
+---
+
 ## 🧪 Recent Projects
 
 - 🌀 **[ML-OPS-Automated-Pipeline-with-Dagster](https://github.com/rilikt/ML-OPS-Automated-Pipeline-with-Dagster)**  
